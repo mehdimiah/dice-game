@@ -22,7 +22,12 @@ h1 {
   color: #4ECCA3;
 }
 
-p {
+.refresh {
+  color: red;
+  font-family: 'serif';
+}
+
+.player {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
