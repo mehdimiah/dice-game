@@ -5,5 +5,5 @@ the di will refresh with a new value when the website is refreshed, stating whic
 
 this player will be the winner.
 
-##try it here
+## try it here
 https://mehdimiah.github.io/dice-game/
